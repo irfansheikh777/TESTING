@@ -1,3 +1,5 @@
 hie this is tesing File for "GITS"
-HIE
+<<<<<<< HEAD
+WORKING DIRECTORY
+>>>>>>> parent of 8f70f12... this is for testing revert git
 HELLO``
